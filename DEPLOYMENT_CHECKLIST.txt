@@ -1,0 +1,18 @@
+بوابة قرية الحرية — قائمة فحص الإصدار النهائي 4.0
+
+[ ] تنفيذ supabase/schema.sql
+[ ] نشر Edge Function login-code
+[ ] ضبط USER_CODE و ADMIN_CODE و SESSION_SECRET
+[ ] وضع SUPABASE_URL و SUPABASE_ANON_KEY و EDGE_FUNCTION_URL في config.js
+[ ] تغيير DEMO_MODE إلى false
+[ ] رفع المشروع إلى GitHub Pages عبر HTTPS
+[ ] تجربة دخول المستخدم
+[ ] تجربة دخول المشرف
+[ ] تجربة الإضافة والتعديل والحذف من جهاز المشرف
+[ ] تجربة ظهور التغيير على جهاز ثانٍ
+[ ] تجربة إرسال شكوى
+[ ] تجربة تحديث حالة البلاغ من المشرف
+[ ] تجربة النسخة الاحتياطية والاستعادة
+[ ] تجربة العمل دون اتصال
+[ ] تجربة تثبيت PWA على Android
+[ ] التأكد من عدم وجود service_role في ملفات الواجهة أو GitHub
